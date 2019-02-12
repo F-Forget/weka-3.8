@@ -1,3 +1,9 @@
+# TP1 - Équipe Alpha
+
+## Build Status
+
+[![Build Status](https://api.travis-ci.org/F-Forget/weka-3.8.svg?branch=master)](https://travis-ci.org/F-Forget/weka-3.8)
+
 # WEKA (stable version)
 
 Read-only git mirror of Weka's subversion repository.
