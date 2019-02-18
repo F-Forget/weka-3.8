@@ -1,5 +1,10 @@
 # TP1 - Équipe Alpha
 
+- Francis Forget
+- Michaël Salmon
+- Vincent Labonté
+- Samuel Chapleau
+
 ## Build Status
 
 [![Build Status](https://api.travis-ci.org/F-Forget/weka-3.8.svg?branch=master)](https://travis-ci.org/F-Forget/weka-3.8)
